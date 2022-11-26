@@ -47,3 +47,6 @@ function App() {
 
 export default App;
 ```
+## Exemple:
+
+![alt text](https://github.com/RedaTheCeo/virtual-arabic-keyboard/blob/main/demo/Exemple.png?raw=true)
