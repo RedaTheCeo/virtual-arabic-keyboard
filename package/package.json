@@ -1,0 +1,23 @@
+{
+  "name": "virtual-arabic-keyboard",
+  "version": "1.0.0",
+  "description": "Virtual Arabic Keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedaTheCeo/virtual-arabic-keyboard.git"
+  },
+  "keywords": [
+    "keyboard",
+    "arabic"
+  ],
+  "author": "RedaTheCeo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RedaTheCeo/virtual-arabic-keyboard/issues"
+  },
+  "homepage": "https://github.com/RedaTheCeo/virtual-arabic-keyboard#readme"
+}
